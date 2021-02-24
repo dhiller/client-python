@@ -16,674 +16,676 @@ Populated by the system. Read-only. Null for lists. More info: https://git.k8s.i
 [main] WARN io.swagger.util.PropertyDeserializer - no property from , null, {ENUM=null, TITLE=null, DESCRIPTION=null, DEFAULT=null, PATTERN=null, DESCRIMINATOR=null, MIN_ITEMS=null, MAX_ITEMS=null, MIN_PROPERTIES=null, MAX_PROPERTIES=null, MIN_LENGTH=null, MAX_LENGTH=null, MINIMUM=null, MAXIMUM=null, EXCLUSIVE_MINIMUM=null, EXCLUSIVE_MAXIMUM=null, UNIQUE_ITEMS=null, EXAMPLE=null, TYPE=, FORMAT=null, READ_ONLY=null, VENDOR_EXTENSIONS={}, MULTIPLE_OF=null}
 [main] WARN io.swagger.util.PropertyDeserializer - no property from , null, {ENUM=null, TITLE=null, DESCRIPTION=null, DEFAULT=null, PATTERN=null, DESCRIMINATOR=null, MIN_ITEMS=null, MAX_ITEMS=null, MIN_PROPERTIES=null, MAX_PROPERTIES=null, MIN_LENGTH=null, MAX_LENGTH=null, MINIMUM=null, MAXIMUM=null, EXCLUSIVE_MINIMUM=null, EXCLUSIVE_MAXIMUM=null, UNIQUE_ITEMS=null, EXAMPLE=null, TYPE=, FORMAT=null, READ_ONLY=null, VENDOR_EXTENSIONS={}, MULTIPLE_OF=null}
 [main] WARN io.swagger.util.PropertyDeserializer - no property from , null, {ENUM=null, TITLE=null, DESCRIPTION=null, DEFAULT=null, PATTERN=null, DESCRIMINATOR=null, MIN_ITEMS=null, MAX_ITEMS=null, MIN_PROPERTIES=null, MAX_PROPERTIES=null, MIN_LENGTH=null, MAX_LENGTH=null, MINIMUM=null, MAXIMUM=null, EXCLUSIVE_MINIMUM=null, EXCLUSIVE_MAXIMUM=null, UNIQUE_ITEMS=null, EXAMPLE=null, TYPE=, FORMAT=null, READ_ONLY=null, VENDOR_EXTENSIONS={}, MULTIPLE_OF=null}
-[main] INFO io.swagger.codegen.ignore.CodegenIgnoreProcessor - No .swagger-codegen-ignore file found.
 [main] ERROR io.swagger.codegen.DefaultGenerator - Missing required field info version. Default appVersion set to 1.0.0
 [main] ERROR io.swagger.codegen.DefaultGenerator - Missing required field info version. Default version set to 1.0.0
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_affinity.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_affinity.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_affinity.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1Affinity.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_downward_api_volume_file.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_downward_api_volume_file.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_downward_api_volume_file.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1DownwardAPIVolumeFile.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_http_get_action.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_http_get_action.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_http_get_action.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1HTTPGetAction.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_http_header.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_http_header.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_http_header.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1HTTPHeader.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_local_object_reference.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_local_object_reference.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_local_object_reference.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1LocalObjectReference.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_node_affinity.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_node_affinity.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_node_affinity.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1NodeAffinity.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_node_selector.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_node_selector.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_node_selector.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1NodeSelector.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_node_selector_requirement.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_node_selector_requirement.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_node_selector_requirement.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1NodeSelectorRequirement.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_node_selector_term.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_node_selector_term.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_node_selector_term.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1NodeSelectorTerm.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_object_field_selector.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_object_field_selector.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_object_field_selector.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1ObjectFieldSelector.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_persistent_volume_claim_spec.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_persistent_volume_claim_spec.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_persistent_volume_claim_spec.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1PersistentVolumeClaimSpec.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_persistent_volume_claim_volume_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_persistent_volume_claim_volume_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_persistent_volume_claim_volume_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1PersistentVolumeClaimVolumeSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_pod_affinity.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_pod_affinity.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_pod_affinity.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1PodAffinity.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_pod_affinity_term.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_pod_affinity_term.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_pod_affinity_term.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1PodAffinityTerm.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_pod_anti_affinity.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_pod_anti_affinity.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_pod_anti_affinity.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1PodAntiAffinity.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_pod_dns_config.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_pod_dns_config.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_pod_dns_config.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1PodDNSConfig.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_pod_dns_config_option.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_pod_dns_config_option.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_pod_dns_config_option.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1PodDNSConfigOption.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_preferred_scheduling_term.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_preferred_scheduling_term.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_preferred_scheduling_term.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1PreferredSchedulingTerm.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_resource_field_selector.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_resource_field_selector.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_resource_field_selector.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1ResourceFieldSelector.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_resource_requirements.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_resource_requirements.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_resource_requirements.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1ResourceRequirements.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_tcp_socket_action.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_tcp_socket_action.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_tcp_socket_action.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1TCPSocketAction.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_toleration.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_toleration.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_toleration.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1Toleration.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_typed_local_object_reference.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_typed_local_object_reference.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_typed_local_object_reference.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1TypedLocalObjectReference.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_api_core_v1_weighted_pod_affinity_term.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_weighted_pod_affinity_term.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_api_core_v1_weighted_pod_affinity_term.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApiCoreV1WeightedPodAffinityTerm.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_api_resource_quantity.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_api_resource_quantity.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_api_resource_quantity.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApiResourceQuantity.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_api_group.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_api_group.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_api_group.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1APIGroup.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_api_group_list.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_api_group_list.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_api_group_list.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1APIGroupList.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_api_resource.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_api_resource.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_api_resource.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1APIResource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_api_resource_list.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_api_resource_list.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_api_resource_list.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1APIResourceList.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_delete_options.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_delete_options.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_delete_options.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1DeleteOptions.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_duration.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_duration.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_duration.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1Duration.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_fields_v1.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_fields_v1.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_fields_v1.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1FieldsV1.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_group_version_for_discovery.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_group_version_for_discovery.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_group_version_for_discovery.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1GroupVersionForDiscovery.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_label_selector.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_label_selector.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_label_selector.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1LabelSelector.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_label_selector_requirement.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_label_selector_requirement.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_label_selector_requirement.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1LabelSelectorRequirement.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_list_meta.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_list_meta.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_list_meta.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1ListMeta.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_managed_fields_entry.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_managed_fields_entry.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_managed_fields_entry.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1ManagedFieldsEntry.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_object_meta.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_object_meta.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_object_meta.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1ObjectMeta.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_owner_reference.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_owner_reference.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_owner_reference.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1OwnerReference.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_patch.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_patch.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_patch.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1Patch.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_preconditions.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_preconditions.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_preconditions.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1Preconditions.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_root_paths.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_root_paths.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_root_paths.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1RootPaths.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_server_address_by_client_cidr.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_server_address_by_client_cidr.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_server_address_by_client_cidr.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1ServerAddressByClientCIDR.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_status.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_status.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_status.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1Status.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_status_cause.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_status_cause.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_status_cause.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1StatusCause.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_status_details.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_status_details.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_status_details.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1StatusDetails.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_time.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_time.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_time.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1Time.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_apis_meta_v1_watch_event.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_watch_event.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_apis_meta_v1_watch_event.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgApisMetaV1WatchEvent.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_runtime_raw_extension.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_runtime_raw_extension.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_runtime_raw_extension.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgRuntimeRawExtension.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/k8s_io_apimachinery_pkg_util_intstr_int_or_string.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_util_intstr_int_or_string.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_k8s_io_apimachinery_pkg_util_intstr_int_or_string.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/K8sIoApimachineryPkgUtilIntstrIntOrString.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_access_credential.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_access_credential.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_access_credential.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1AccessCredential.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_access_credential_secret_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_access_credential_secret_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_access_credential_secret_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1AccessCredentialSecretSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_add_volume_options.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_add_volume_options.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_add_volume_options.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1AddVolumeOptions.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_bios.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_bios.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_bios.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1BIOS.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_bootloader.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_bootloader.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_bootloader.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Bootloader.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_cd_rom_target.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_cd_rom_target.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_cd_rom_target.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1CDRomTarget.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_cpu.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_cpu.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_cpu.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1CPU.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_cpu_feature.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_cpu_feature.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_cpu_feature.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1CPUFeature.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_chassis.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_chassis.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_chassis.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Chassis.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_clock.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_clock.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_clock.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Clock.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_clock_offset_utc.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_clock_offset_utc.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_clock_offset_utc.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1ClockOffsetUTC.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_cloud_init_config_drive_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_cloud_init_config_drive_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_cloud_init_config_drive_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1CloudInitConfigDriveSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_cloud_init_no_cloud_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_cloud_init_no_cloud_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_cloud_init_no_cloud_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1CloudInitNoCloudSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_component_config.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_component_config.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_component_config.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1ComponentConfig.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_config_drive_ssh_public_key_access_credential_propagation.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_config_drive_ssh_public_key_access_credential_propagation.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_config_drive_ssh_public_key_access_credential_propagation.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1ConfigDriveSSHPublicKeyAccessCredentialPropagation.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_config_map_volume_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_config_map_volume_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_config_map_volume_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1ConfigMapVolumeSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_container_disk_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_container_disk_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_container_disk_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1ContainerDiskSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_customize_components.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_customize_components.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_customize_components.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1CustomizeComponents.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_customize_components_patch.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_customize_components_patch.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_customize_components_patch.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1CustomizeComponentsPatch.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_dhcp_options.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_dhcp_options.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_dhcp_options.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1DHCPOptions.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_dhcp_private_options.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_dhcp_private_options.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_dhcp_private_options.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1DHCPPrivateOptions.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_data_volume_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_data_volume_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_data_volume_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1DataVolumeSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_data_volume_template_dummy_status.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_data_volume_template_dummy_status.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_data_volume_template_dummy_status.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1DataVolumeTemplateDummyStatus.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_data_volume_template_spec.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_data_volume_template_spec.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_data_volume_template_spec.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1DataVolumeTemplateSpec.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_developer_configuration.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_developer_configuration.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_developer_configuration.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1DeveloperConfiguration.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_devices.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_devices.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_devices.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Devices.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_disk.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_disk.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_disk.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Disk.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_disk_target.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_disk_target.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_disk_target.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1DiskTarget.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_domain_spec.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_domain_spec.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_domain_spec.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1DomainSpec.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_downward_api_volume_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_downward_api_volume_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_downward_api_volume_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1DownwardAPIVolumeSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_efi.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_efi.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_efi.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1EFI.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_empty_disk_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_empty_disk_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_empty_disk_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1EmptyDiskSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_ephemeral_volume_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_ephemeral_volume_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_ephemeral_volume_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1EphemeralVolumeSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_feature_apic.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_feature_apic.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_feature_apic.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1FeatureAPIC.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_feature_hyperv.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_feature_hyperv.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_feature_hyperv.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1FeatureHyperv.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_feature_kvm.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_feature_kvm.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_feature_kvm.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1FeatureKVM.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_feature_spinlocks.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_feature_spinlocks.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_feature_spinlocks.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1FeatureSpinlocks.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_feature_state.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_feature_state.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_feature_state.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1FeatureState.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_feature_vendor_id.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_feature_vendor_id.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_feature_vendor_id.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1FeatureVendorID.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_features.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_features.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_features.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Features.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_filesystem.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_filesystem.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_filesystem.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Filesystem.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_filesystem_virtiofs.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_filesystem_virtiofs.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_filesystem_virtiofs.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1FilesystemVirtiofs.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_firmware.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_firmware.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_firmware.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Firmware.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_floppy_target.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_floppy_target.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_floppy_target.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1FloppyTarget.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_gpu.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_gpu.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_gpu.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1GPU.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_hpet_timer.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_hpet_timer.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_hpet_timer.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1HPETTimer.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_host_device.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_host_device.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_host_device.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1HostDevice.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_host_disk.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_host_disk.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_host_disk.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1HostDisk.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_hotplug_volume_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_hotplug_volume_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_hotplug_volume_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1HotplugVolumeSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_hotplug_volume_status.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_hotplug_volume_status.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_hotplug_volume_status.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1HotplugVolumeStatus.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_hugepages.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_hugepages.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_hugepages.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Hugepages.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_hyperv_timer.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_hyperv_timer.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_hyperv_timer.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1HypervTimer.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_i6300_esb_watchdog.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_i6300_esb_watchdog.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_i6300_esb_watchdog.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1I6300ESBWatchdog.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_input.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_input.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_input.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Input.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_interface.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_interface.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_interface.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Interface.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_interface_bridge.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_interface_bridge.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_interface_bridge.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1InterfaceBridge.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_interface_macvtap.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_interface_macvtap.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_interface_macvtap.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1InterfaceMacvtap.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_interface_masquerade.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_interface_masquerade.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_interface_masquerade.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1InterfaceMasquerade.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_interface_sriov.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_interface_sriov.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_interface_sriov.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1InterfaceSRIOV.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_interface_slirp.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_interface_slirp.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_interface_slirp.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1InterfaceSlirp.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_kvm_timer.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kvm_timer.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kvm_timer.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1KVMTimer.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_kube_virt.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1KubeVirt.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_kube_virt_certificate_rotate_strategy.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt_certificate_rotate_strategy.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt_certificate_rotate_strategy.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1KubeVirtCertificateRotateStrategy.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_kube_virt_condition.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt_condition.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt_condition.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1KubeVirtCondition.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_kube_virt_configuration.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt_configuration.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt_configuration.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1KubeVirtConfiguration.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_kube_virt_list.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt_list.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt_list.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1KubeVirtList.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_kube_virt_self_sign_configuration.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt_self_sign_configuration.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt_self_sign_configuration.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1KubeVirtSelfSignConfiguration.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_kube_virt_spec.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt_spec.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt_spec.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1KubeVirtSpec.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_kube_virt_status.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt_status.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt_status.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1KubeVirtStatus.md
+[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_kube_virt_workload_update_strategy.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_kube_virt_workload_update_strategy.py
+[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1KubeVirtWorkloadUpdateStrategy.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_log_verbosity.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_log_verbosity.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_log_verbosity.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1LogVerbosity.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_lun_target.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_lun_target.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_lun_target.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1LunTarget.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_machine.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_machine.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_machine.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Machine.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_mediated_host_device.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_mediated_host_device.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_mediated_host_device.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1MediatedHostDevice.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_memory.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_memory.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_memory.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Memory.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_migration_configuration.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_migration_configuration.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_migration_configuration.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1MigrationConfiguration.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_multus_network.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_multus_network.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_multus_network.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1MultusNetwork.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_network.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_network.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_network.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Network.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_network_configuration.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_network_configuration.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_network_configuration.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1NetworkConfiguration.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_node_placement.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_node_placement.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_node_placement.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1NodePlacement.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_pit_timer.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_pit_timer.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_pit_timer.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1PITTimer.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_pci_host_device.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_pci_host_device.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_pci_host_device.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1PciHostDevice.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_permitted_host_devices.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_permitted_host_devices.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_permitted_host_devices.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1PermittedHostDevices.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_pod_network.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_pod_network.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_pod_network.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1PodNetwork.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_port.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_port.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_port.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Port.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_probe.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_probe.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_probe.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Probe.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_qemu_guest_agent_ssh_public_key_access_credential_propagation.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_qemu_guest_agent_ssh_public_key_access_credential_propagation.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_qemu_guest_agent_ssh_public_key_access_credential_propagation.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1QemuGuestAgentSSHPublicKeyAccessCredentialPropagation.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_qemu_guest_agent_user_password_access_credential_propagation.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_qemu_guest_agent_user_password_access_credential_propagation.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_qemu_guest_agent_user_password_access_credential_propagation.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1QemuGuestAgentUserPasswordAccessCredentialPropagation.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_rtc_timer.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_rtc_timer.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_rtc_timer.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1RTCTimer.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_remove_volume_options.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_remove_volume_options.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_remove_volume_options.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1RemoveVolumeOptions.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_resource_requirements.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_resource_requirements.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_resource_requirements.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1ResourceRequirements.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_restart_options.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_restart_options.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_restart_options.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1RestartOptions.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_rng.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_rng.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_rng.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Rng.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_sm_bios_configuration.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_sm_bios_configuration.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_sm_bios_configuration.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1SMBiosConfiguration.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_ssh_public_key_access_credential.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_ssh_public_key_access_credential.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_ssh_public_key_access_credential.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1SSHPublicKeyAccessCredential.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_ssh_public_key_access_credential_propagation_method.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_ssh_public_key_access_credential_propagation_method.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_ssh_public_key_access_credential_propagation_method.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1SSHPublicKeyAccessCredentialPropagationMethod.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_ssh_public_key_access_credential_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_ssh_public_key_access_credential_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_ssh_public_key_access_credential_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1SSHPublicKeyAccessCredentialSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_secret_volume_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_secret_volume_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_secret_volume_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1SecretVolumeSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_service_account_volume_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_service_account_volume_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_service_account_volume_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1ServiceAccountVolumeSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_sysprep_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_sysprep_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_sysprep_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1SysprepSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_timer.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_timer.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_timer.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Timer.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_user_password_access_credential.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_user_password_access_credential.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_user_password_access_credential.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1UserPasswordAccessCredential.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_user_password_access_credential_propagation_method.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_user_password_access_credential_propagation_method.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_user_password_access_credential_propagation_method.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1UserPasswordAccessCredentialPropagationMethod.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_user_password_access_credential_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_user_password_access_credential_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_user_password_access_credential_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1UserPasswordAccessCredentialSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachine.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_condition.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_condition.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_condition.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineCondition.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstance.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_condition.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_condition.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_condition.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceCondition.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_file_system.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_file_system.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_file_system.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceFileSystem.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_file_system_info.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_file_system_info.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_file_system_info.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceFileSystemInfo.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_file_system_list.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_file_system_list.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_file_system_list.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceFileSystemList.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_guest_agent_info.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_guest_agent_info.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_guest_agent_info.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceGuestAgentInfo.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_guest_os_info.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_guest_os_info.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_guest_os_info.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceGuestOSInfo.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_guest_os_user.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_guest_os_user.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_guest_os_user.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceGuestOSUser.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_guest_os_user_list.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_guest_os_user_list.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_guest_os_user_list.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceGuestOSUserList.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_list.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_list.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_list.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceList.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_migration.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_migration.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_migration.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceMigration.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_migration_condition.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_migration_condition.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_migration_condition.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceMigrationCondition.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_migration_list.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_migration_list.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_migration_list.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceMigrationList.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_migration_spec.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_migration_spec.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_migration_spec.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceMigrationSpec.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_migration_state.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_migration_state.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_migration_state.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceMigrationState.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_migration_status.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_migration_status.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_migration_status.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceMigrationStatus.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_network_interface.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_network_interface.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_network_interface.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceNetworkInterface.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_preset.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_preset.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_preset.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstancePreset.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_preset_list.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_preset_list.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_preset_list.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstancePresetList.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_preset_spec.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_preset_spec.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_preset_spec.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstancePresetSpec.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_replica_set.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_replica_set.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_replica_set.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceReplicaSet.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_replica_set_condition.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_replica_set_condition.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_replica_set_condition.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceReplicaSetCondition.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_replica_set_list.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_replica_set_list.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_replica_set_list.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceReplicaSetList.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_replica_set_spec.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_replica_set_spec.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_replica_set_spec.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceReplicaSetSpec.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_replica_set_status.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_replica_set_status.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_replica_set_status.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceReplicaSetStatus.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_spec.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_spec.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_spec.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceSpec.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_status.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_status.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_status.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceStatus.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_instance_template_spec.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_template_spec.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_instance_template_spec.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineInstanceTemplateSpec.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_list.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_list.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_list.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineList.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_spec.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_spec.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_spec.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineSpec.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_state_change_request.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_state_change_request.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_state_change_request.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineStateChangeRequest.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_status.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_status.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_status.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineStatus.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_virtual_machine_volume_request.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_volume_request.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_virtual_machine_volume_request.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VirtualMachineVolumeRequest.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_volume.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_volume.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_volume.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Volume.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_volume_snapshot_status.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_volume_snapshot_status.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_volume_snapshot_status.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VolumeSnapshotStatus.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_volume_status.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_volume_status.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_volume_status.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1VolumeStatus.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1_watchdog.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_watchdog.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1_watchdog.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1Watchdog.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_condition.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_condition.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_condition.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1Condition.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_data_volume_blank_image.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_blank_image.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_blank_image.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1DataVolumeBlankImage.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_data_volume_source.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_source.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_source.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1DataVolumeSource.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_data_volume_source_http.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_source_http.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_source_http.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1DataVolumeSourceHTTP.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_data_volume_source_image_io.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_source_image_io.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_source_image_io.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1DataVolumeSourceImageIO.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_data_volume_source_pvc.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_source_pvc.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_source_pvc.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1DataVolumeSourcePVC.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_data_volume_source_registry.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_source_registry.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_source_registry.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1DataVolumeSourceRegistry.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_data_volume_source_s3.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_source_s3.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_source_s3.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1DataVolumeSourceS3.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_data_volume_source_upload.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_source_upload.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_source_upload.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1DataVolumeSourceUpload.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_data_volume_source_vddk.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_source_vddk.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_source_vddk.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1DataVolumeSourceVDDK.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_data_volume_spec.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_spec.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_data_volume_spec.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1DataVolumeSpec.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_error.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_error.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_error.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1Error.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_persistent_volume_claim.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_persistent_volume_claim.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_persistent_volume_claim.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1PersistentVolumeClaim.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_source_spec.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_source_spec.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_source_spec.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1SourceSpec.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_virtual_machine_restore.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_restore.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_restore.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1VirtualMachineRestore.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_virtual_machine_restore_list.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_restore_list.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_restore_list.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1VirtualMachineRestoreList.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_virtual_machine_restore_spec.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_restore_spec.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_restore_spec.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1VirtualMachineRestoreSpec.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_virtual_machine_restore_status.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_restore_status.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_restore_status.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1VirtualMachineRestoreStatus.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_virtual_machine_snapshot.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_snapshot.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_snapshot.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1VirtualMachineSnapshot.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_virtual_machine_snapshot_content.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_snapshot_content.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_snapshot_content.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1VirtualMachineSnapshotContent.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_virtual_machine_snapshot_content_list.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_snapshot_content_list.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_snapshot_content_list.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1VirtualMachineSnapshotContentList.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_virtual_machine_snapshot_content_spec.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_snapshot_content_spec.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_snapshot_content_spec.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1VirtualMachineSnapshotContentSpec.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_virtual_machine_snapshot_content_status.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_snapshot_content_status.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_snapshot_content_status.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1VirtualMachineSnapshotContentStatus.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_virtual_machine_snapshot_list.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_snapshot_list.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_snapshot_list.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1VirtualMachineSnapshotList.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_virtual_machine_snapshot_spec.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_snapshot_spec.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_snapshot_spec.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1VirtualMachineSnapshotSpec.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_virtual_machine_snapshot_status.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_snapshot_status.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_virtual_machine_snapshot_status.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1VirtualMachineSnapshotStatus.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_volume_backup.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_volume_backup.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_volume_backup.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1VolumeBackup.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_volume_restore.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_volume_restore.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_volume_restore.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1VolumeRestore.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/models/v1alpha1_volume_snapshot_status.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_volume_snapshot_status.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_v1alpha1_volume_snapshot_status.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/V1alpha1VolumeSnapshotStatus.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/kubevirt/apis/default_api.py
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_default_api.py
+[main] INFO io.swagger.codegen.DefaultGenerator - File exists. Skipped overwriting /root/go/src/kubevirt.io/kubevirt/_out/client-python/test/test_default_api.py
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/docs/DefaultApi.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/README.md
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/setup.py
@@ -700,5 +702,4 @@ Populated by the system. Read-only. Null for lists. More info: https://git.k8s.i
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/git_push.sh
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/.gitignore
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/.travis.yml
-[main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/.swagger-codegen-ignore
 [main] INFO io.swagger.codegen.AbstractGenerator - writing file /root/go/src/kubevirt.io/kubevirt/_out/client-python/.swagger-codegen/VERSION
